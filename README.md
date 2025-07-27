@@ -28,9 +28,7 @@ Project Root/
 ├── requirements.txt                      # Python dependencies
 └── README.md                             # Project overview and documentation
 
-
----
-
+```
 ##  Notebook Overview
 
 Each notebook performs a preprocessing task and saves an intermediate dataset to the `processed/` folder.
