@@ -71,5 +71,14 @@ Each notebook performs a preprocessing task and saves an intermediate dataset to
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Tenura2001/EDA-for-ML.git
-cd your-repo-name
+https://github.com/Tenura2001/EDA-for-ML.git
+```
+### 2. Install Requirements
+
+```bash
+pip install -r requirements.txt
+```
+### 3. Launch Jupyter Notebooks
+Open each notebook in order from 0_handle_missing_value.ipynb to 4_feature_scaling.ipynb.
+
+
