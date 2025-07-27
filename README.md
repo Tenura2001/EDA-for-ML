@@ -1,7 +1,7 @@
 # EDA-for-ML
 Advanced Exploratory Data Analysis (EDA)
 
-# 🧹 Data Preprocessing Pipeline for Churn Modelling
+#  Data Preprocessing Pipeline for Churn Modelling
 
 This repository contains a structured data preprocessing pipeline designed for a churn prediction dataset. The project is organized into modular Jupyter notebooks, each handling a specific step in the preprocessing workflow.
 
