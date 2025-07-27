@@ -71,5 +71,5 @@ Each notebook performs a preprocessing task and saves an intermediate dataset to
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Tenura2001/EDA-for-ML.git
 cd your-repo-name
